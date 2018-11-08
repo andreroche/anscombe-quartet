@@ -24,13 +24,9 @@ Cell editing: x, c, v, d, z
 8. https://dabblingwithdata.wordpress.com/2017/05/03/the-datasaurus-a-monstrous-anscombe-for-the-21st-century/
 9. Graphs in Statistical Analysis, F.J. Anscombe, The American Statistician, Vol. 27, No. 1 (Feb., 1973), pp. 17-21
 10. Minitab.com Regression - http://blog.minitab.com/blog/adventures-in-statistics-2/how-to-interpret-regression-analysis-      
-
-    results-p-values-and-coefficients
+results-p-values-and-coefficients
 11. Minitab.com Regression Residual Plots: http://blog.minitab.com/blog/adventures-in-statistics-2/why-you-need-to-check-your-  
-
-    residual-plots-for-regression-analysis
+residual-plots-for-regression-analysis
 12. https://en.wikipedia.org/wiki/Anscombe%27s_quartet
-13. Printing regresion equation line: https://stackoverflow.com/questions/24130922/how-to-print-equation-of-line-using-scipy-   
-
-    stats?rq=1
+13. Printing regresion equation line: https://stackoverflow.com/questions/24130922/how-to-print-equation-of-line-using-scipy-       stats?rq=1
 14. https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html
