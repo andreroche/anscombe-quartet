@@ -12,6 +12,13 @@ Change Cell types: y, m, 1-6, t
 Cell creation: a, b 
 Cell editing: x, c, v, d, z
 
+## Running the jupyter notebook
+Copy/Save the entire contents of the folder to your machine.
+From the terminal, change directory to desired folder.
+Type jupyter notebook.
+Click anscombe-quartet to open.
+When the file opens, click 'Run' on the jupyter notebook toolbar.
+
 
 ## References:
 1. https://seaborn.pydata.org/examples/anscombes_quartet.html?highlight=anscombe
