@@ -1,6 +1,6 @@
 ## Anscombe's Quartet
 
-Exploration and analysis of the anscombe quartet 
+Exploration and analysis of the anscombe quartet. 
 
 Jupyter notebook is used to analyse the quartet. Open the Jupyter notebook in the terminal by simply typing jupyter notebook. If not installed it can be installed as part of the Anaconda package or alternatively visit https://jupyter.readthedocs.io/en/latest/install.html for further information.
 
