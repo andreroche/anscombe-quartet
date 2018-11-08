@@ -6,7 +6,11 @@ Jupyter notebook is used to analyse the quartet. Open the Jupyter notebook in th
 
 ## Useful Jupyter Commands:
 
-Basic navigation: enter, shift-enter, up/k, down/j Saving the notebook: s Change Cell types: y, m, 1-6, t Cell creation: a, b Cell editing: x, c, v, d, z
+Basic navigation: enter, shift-enter, up/k, down/j 
+Saving the notebook: s 
+Change Cell types: y, m, 1-6, t 
+Cell creation: a, b 
+Cell editing: x, c, v, d, z
 
 ## References:
 
