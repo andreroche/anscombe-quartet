@@ -12,7 +12,7 @@ Change Cell types: y, m, 1-6, t
 Cell creation: a, b 
 Cell editing: x, c, v, d, z
 
-## Running the jupyter notebook
+## Running the Jupyter Notebook
 Copy/Save the entire contents of the folder to your machine.
 From the terminal, change directory to desired folder.
 Type jupyter notebook.
